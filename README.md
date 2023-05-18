@@ -5,6 +5,7 @@ Discord: Unciv/#custom-maps (link to follow)
 
 No assets of Antiyoy are used. Antiyoy maps are reference designs. Credit goes squarely to [yiotro](https://github.com/yiotro/Antiyoy) for creating this fine game.
 
+![](/preview/Antiyoy%20Lv01.jpg)
 
 ## What is this?
 This mod of Unciv aims to recreate the levels of Antiyoy in the flavor of Unciv.
