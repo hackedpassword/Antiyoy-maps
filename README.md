@@ -1,7 +1,7 @@
 # Antiyoy-maps
 Maps based on the popular Android turn-based strategy game [Antiyoy](https://play.google.com/store/apps/details?id=yio.tro.antiyoy.android), for [Unciv](https://play.google.com/store/apps/details?id=com.unciv.app).
 
-Discord: Unciv/#custom-maps (link to follow)
+Discord: [Unciv/#custom-maps](https://discord.com/channels/586194543280390151/1020315309783138324/threads/1108869026668625990)
 
 No assets of Antiyoy are used. Antiyoy maps are reference designs. Credit goes squarely to [yiotro](https://github.com/yiotro/Antiyoy) for creating this fine game.
 
