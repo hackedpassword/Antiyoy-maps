@@ -1,4 +1,7 @@
 # Antiyoy-maps
+
+ALERT: The map file isn't present here yet. Oversight! And worse yet deleted! Don't worry, I'll make a new one. Easy. ;)
+
 Maps based on the popular Android turn-based strategy game [Antiyoy](https://play.google.com/store/apps/details?id=yio.tro.antiyoy.android), for [Unciv](https://play.google.com/store/apps/details?id=com.unciv.app).
 
 Discord: [Unciv/#custom-maps](https://discord.com/channels/586194543280390151/1020315309783138324/threads/1108871215818481755)
