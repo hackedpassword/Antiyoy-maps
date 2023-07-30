@@ -13,4 +13,4 @@ This mod of Unciv aims to recreate the levels of Antiyoy in the flavor of Unciv.
 
 Uses G&K ruleset.
 
-Current maps: Campaign levels 1 - 2. More to come. 
+Current maps: **Campaign levels 1 - 3**. More to come. 
