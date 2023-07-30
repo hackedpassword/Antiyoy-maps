@@ -6,7 +6,7 @@ Discord: [Unciv/#custom-maps](https://discord.com/channels/586194543280390151/10
 
 No assets of Antiyoy are used. Antiyoy maps are reference designs. Credit goes squarely to [yiotro](https://github.com/yiotro/Antiyoy) for creating this fine game.
 
-![](/preview/Antiyoy%20Lv01.jpg)
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/Antiyoy-maps/Antiyoy%20Lv01.jpg)
 
 ## What is this?
 This mod of Unciv aims to recreate the levels of Antiyoy in the flavor of Unciv.
@@ -18,10 +18,10 @@ Uses G&K ruleset.
 Current maps: **Campaign levels 1 - 3**. More to come. 
 
 ## Level 02
-![](/preview/Antiyoy%20Lv02.jpg)
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/Antiyoy-maps/Antiyoy%20Lv02.jpg)
 
 ## Level 03
 In this level, all 34 civilizations have a spawn point in each of the 3 citadels.
 
-![](/preview/Antiyoy%20Lv03.jpg)
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Images/Antiyoy-maps/Antiyoy%20Lv03.jpg)
 
